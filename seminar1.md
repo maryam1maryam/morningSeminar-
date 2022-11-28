@@ -1,4 +1,4 @@
-# Git education. Commits #
+># Git education. Branches #
 
 ## Репозиторий - 
 + *место, где хранятся и поддерживаются какие-либо данные*
